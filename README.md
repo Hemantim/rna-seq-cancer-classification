@@ -4,7 +4,7 @@
 
 This project implements an end-to-end machine learning pipeline for multi-class classification of high-dimensional gene expression data (~20,000 features per sample).
 
-The objective is to build a scalable and reproducible workflow for classifying tumor samples into predefined cancer types using supervised learning techniques.
+The objective is to build a scalable and reproducible workflow for classifying tumor samples into pre-defined cancer types using supervised learning techniques.
 
 ---
 
