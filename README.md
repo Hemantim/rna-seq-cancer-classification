@@ -8,7 +8,11 @@ This project implements a complete machine learning pipeline for multi-class can
 Gene expression datasets are high-dimensional and require careful preprocessing, feature selection, and model evaluation. The goal was to classify cancer types based on RNA-Seq expression profiles using supervised learning techniques.
 
 ## Project Structure
-notebooks/
+rna-seq-cancer-classification
+
+│
+
+└── notebooks/
 
 ├── 01_preprocessing.ipynb
 
@@ -47,6 +51,13 @@ notebooks/
 - Feature Engineering
 - Model Evaluation & Comparison
 - Structured Analytical Documentation
+
+
+## Future Improvements
+
+- Hyperparameter tuning
+- Model deployment as API
+- Integration with visualization dashboard
 
 
 ## Author
